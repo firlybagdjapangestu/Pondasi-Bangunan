@@ -14,16 +14,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   foundationImage: {fileID: 0}
   foundationName: continuous foundation
-  foundationDescription: Continuous footing, also known as continuous foundation,
-    is used to support a long wall or a row of closely spaced columns. Consequently,
-    when using spread footings, their sides will overlap. Here is an illustration
-    of continuous footing.
-  soundDescription: {fileID: 8300000, guid: 83e2e5f0fd93c914f88d90f60ce5b272, type: 3}
+  foundationDescription: Longitudinal foundation or continuous footing is a foundation
+    used to support a long wall or a row of closely spaced columns, such that if
+    spread footing is used, their sides would overlap. The primary function of a
+    longitudinal foundation is to evenly distribute the structural load to the underlying
+    soil. Consequently, the load from the wall or structure along the length of the
+    foundation is well-distributed, preventing excessive pressure on the soil. Real-world
+    examples of the use of longitudinal foundations can be found in the construction
+    of boundary walls of buildings, especially in structures where the length is
+    greater than the width. For instance, an office building with a long wall or
+    a warehouse with a long structure may utilize a longitudinal foundation to provide
+    stable support.
+  soundDescription: {fileID: 8300000, guid: 95cb45da7fcc69848b45443f53d7f400, type: 3}
   namaPondasi: Pondasi Memanjang
   deskripsiPondasi: Pondasi memanjang atau pondasi kontinyu (continuous footing)
-    digunakan untuk mendukung dinding panjang atau sederetan kolom yang berjarak
-    sangat dekat. Sehingga, jika menggunakan pondasi telapak, sisi-sisinya akan berimpit
-    satu sama lain. Berikut adalah gambar dari pondasi memanjang.
-  suaraPenjelasan: {fileID: 8300000, guid: 176d88fe55473d0409277b3b2d1b4ed0, type: 3}
+    adalah pondasi yang digunakan untuk mendukung dinding memanjang atau digunakan
+    untuk mendukung sederetan kolom-kolom yang berjarak sangat dekat, sehingga bila
+    dipakai pondasi telapak sisi-sisinya akan berimpit satu sama lain. Fungsi utama
+    pondasi memanjang adalah mendistribusikan beban struktural secara merata ke tanah
+    di bawahnya. Oleh karena itu, beban dari dinding atau struktur sepanjang pondasi
+    tersebar dengan baik, mencegah terjadinya tekanan berlebihan pada tanah. Contoh
+    nyata dari penggunaan pondasi memanjang dapat ditemukan pada konstruksi dinding
+    batas bangunan, terutama pada struktur yang panjangnya lebih besar daripada lebar.
+    Misalnya, sebuah bangunan perkantoran dengan dinding panjang atau sebuah gudang
+    dengan struktur panjang dapat menggunakan pondasi memanjang untuk memberikan
+    dukungan yang stabil.
+  suaraPenjelasan: {fileID: 8300000, guid: 0408046d49156e64c884fdcb91ab0377, type: 3}
   foundationPrefab: {fileID: 2270297466619120654, guid: a78a7a1ee5302c042a6e14f6cadd4f66,
     type: 3}

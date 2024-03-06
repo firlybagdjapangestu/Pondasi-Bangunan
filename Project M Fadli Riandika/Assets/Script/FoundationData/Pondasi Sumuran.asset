@@ -14,16 +14,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   foundationImage: {fileID: 21300000, guid: 43ee8be92fc691e45b1bbdda4935613f, type: 3}
   foundationName: Pier Foundation
-  foundationDescription: A pier foundation or caisson, which serves as an intermediate
-    form between shallow foundations and pile foundations, is employed when a firm
-    subsoil is located at a relatively deep depth. Here is an illustration of a pier
-    foundation or caisson.
-  soundDescription: {fileID: 8300000, guid: f35591deaf6a91c41abd35ac7818b9c6, type: 3}
+  foundationDescription: "Pier foundation, also known as caisson foundation, serves
+    as a transition between shallow foundations and pile foundations, used when a
+    strong underlying soil is found at a relatively deep depth. The primary function
+    of a pier foundation is to support the structural load vertically and channel
+    it through concrete pillars or columns to stronger soil layers. This aids in
+    distributing the load evenly and preventing undesired settlement or shifts. Examples
+    of the use of pier foundations can be found in various types of buildings, including
+    residential houses, bridges, and industrial structures. For instance, a residential
+    house in an area with weak or uneven soil may utilize a pier foundation to support
+    the building structure. Additionally, in bridge projects or industrial construction,
+    pier foundations can be employed to support structures above them.\r\n\r"
+  soundDescription: {fileID: 8300000, guid: e7b96e5688667184b865211400f60b93, type: 3}
   namaPondasi: Pondasi Sumuran
-  deskripsiPondasi: Pondasi sumuran atau kaison (pier foundation/caisson) adalah
-    bentuk peralihan antara pondasi dangkal dan pondasi tiang. Pondasi ini digunakan
-    ketika tanah dasar yang kokoh terletak pada kedalaman yang relatif dalam. Berikut
-    adalah ilustrasi dari pondasi sumuran.
-  suaraPenjelasan: {fileID: 8300000, guid: bdd0636f58d8f17448b7df9d009c57ac, type: 3}
+  deskripsiPondasi: Fondasi sumuran atau kaison (pier foundation/caisson) yang merupakan
+    hentuk peralihan antara fondasi dangkal dan fondasi tiang, digunakan hila tanah
+    dasar yang kuat terletak pada kedalaman yang relatif dalam. Fungsi utama pondasi
+    sumuran adalah menopang beban struktural secara vertikal dan mengalirkannya melalui
+    pilar-pilar atau tiang-tiang beton ke lapisan tanah yang lebih kuat. Hal ini
+    membantu mendistribusikan beban secara merata dan mencegah terjadinya penurunan
+    atau pergeseran yang tidak diinginkan. Contoh penggunaan pondasi sumuran dapat
+    ditemukan pada berbagai jenis bangunan, termasuk rumah tinggal, jembatan, dan
+    struktur industri. Sebagai contoh, sebuah rumah tinggal di daerah dengan tanah
+    lemah atau tidak seragam dapat menggunakan pondasi sumuran untuk mendukung struktur
+    bangunan. Selain itu, pada proyek jembatan atau konstruksi industri, pondasi
+    sumuran dapat digunakan untuk menopang struktur di atasnya.
+  suaraPenjelasan: {fileID: 8300000, guid: eebdd951bab0e0748b10379dd74ec1bd, type: 3}
   foundationPrefab: {fileID: 405320840902087956, guid: 3f40617b85bc69841a3da5ced308f197,
     type: 3}

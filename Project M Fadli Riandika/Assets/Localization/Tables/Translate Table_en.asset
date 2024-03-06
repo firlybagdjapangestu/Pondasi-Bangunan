@@ -23,7 +23,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 13018925621248
-    m_Localized: Foundational Learning
+    m_Localized: 'Learning Media: Types of Building Foundations Using Augmented Reality'
     m_Metadata:
       m_Items: []
   - m_Id: 16186669522944
@@ -47,10 +47,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18763649900544
-    m_Localized: Foundation is a part of a building that channels the building's
-      load into the ground, maintains stability, and prevents damage by evenly distributing
-      the load. This is done so that the ground can safely support the building and
-      prevent shifting or damage
+    m_Localized: According to Christady (2014), a foundation is the lowest part of
+      a building that transfers the building's load to the soil or rock beneath it.
+      According to Yuningtyastuti (2011), a foundation is the lower structure of
+      a building that directly interacts with the soil, serving as a component of
+      construction that functions to resist the forces exerted upon it. The foundation
+      is constructed as a strong fundamental unit beneath the overall structure.
     m_Metadata:
       m_Items: []
   - m_Id: 18967300136960
@@ -66,7 +68,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 21703253024768
-    m_Localized: standalone foundation
+    m_Localized: Spread foundation
     m_Metadata:
       m_Items: []
   - m_Id: 22001468039168
@@ -87,6 +89,45 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 23307876294656
     m_Localized: Pile Foundation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178607082811392
+    m_Localized: 'The foundation is a crucial structural component of a building,
+      as its function is to support the structure above it. Therefore, the construction
+      process must meet the following primary requirements:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178722593943552
+    m_Localized: '1. Sufficiently strong to withstand shear forces resulting from
+      vertical loads.
+
+      2. Capable of adapting to the movement of unstable soil
+      (soil settlement) and resistant to the effects of weather changes.
+
+      3.
+      Resistant to the effects of chemical substances.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178755804442624
+    m_Localized: The foundation serves to support the entire load of a building and
+      transmit this load into the soil below. A foundation system must ensure the
+      ability to support the loads of the structure above it, including external
+      forces such as wind and seismic forces. Therefore, the foundation must be strong,
+      stable, and secure to prevent settlement or failure, as rectifying foundation
+      issues can be challenging.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22184055110414336
+    m_Localized: 'Shallow foundation is defined as a foundation that directly supports
+      its load, such as: spread foundation, strip foundation, and raft foundation.
+      The following is an explanation of the types of shallow foundations.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22185873714491392
+    m_Localized: 'Deep foundation is defined as a foundation that transfers the building
+      load to hard soil or rock located relatively deep below the surface, such as
+      well foundation and pile foundation. The following is an explanation of the
+      types of deep foundations:'
     m_Metadata:
       m_Items: []
   references:

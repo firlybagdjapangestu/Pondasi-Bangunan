@@ -23,7 +23,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 13018925621248
-    m_Localized: Pembelajaran Pondasi
+    m_Localized: Media Pembelajaran Jenis-Jenis Pondasi Bangunan Menggunakan Augamented
+      Reality
     m_Metadata:
       m_Items: []
   - m_Id: 16186669522944
@@ -47,10 +48,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18763649900544
-    m_Localized: Pondasi adalah bagian dari bangunan yang menyalurkan beban bangunan
-      ke tanah, menjaga stabilitas, dan mencegah kerusakan dengan mendistribusikan
-      beban secara merata. Ini dilakukan agar tanah dapat menopang bangunan dengan
-      aman dan terhindar dari pergeseran atau kerusakan
+    m_Localized: Menurut Christady (2014) Pondasi adalah bagian terendah dari bangunan
+      yang meneruskan beban bangunan ke tanah atau batuan yang ada di bawahnya. Menurut
+      Yuningtyastuti (2011) Pondasi adalah struktur bagian bawah bangunan yang berhubungan
+      langsung dengan tanah dan suatu bagian dari konstruksi yang berfungsi menahan
+      gaya beban diatasnya. Pondasi dibuat menjadi satu kesatuan dasar bangunan yang
+      kuat yang terdapat dibawah konstruksi.
     m_Metadata:
       m_Items: []
   - m_Id: 18967300136960
@@ -87,6 +90,44 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 23307876294656
     m_Localized: 'Pondasi Tiang '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178607082811392
+    m_Localized: 'Pondasi merupakan bagian struktur dari bangunan yang sangat penting,
+      karena fungsinya adalah menopang bangunan diatasnya, maka proses pembangunannya
+      harus memenuhi persyaratan utama sebagai berikut:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178722593943552
+    m_Localized: '1. Cukup kuat menahan muatan geser akibat muatan tegak ke bawah.
+
+      2.
+      Dapat menyesuaikan pergerakan tanah yang tidak stabil (tanah gerak)Tahan terhadap
+      pengaruh perubahan cuaca
+
+      3. Tahan terhadap pengaruh bahan kimia'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178755804442624
+    m_Localized: Pondasi berfungsi untuk mendukung seluruh beban bangunan dan meneruskan
+      beban bangunan tersebut kedalam tanah dibawahnya. Suatu sistem pondasi harus
+      dapat menjamin, harus mampu mendukung beban bangunan diatasnya, termasuk gaya-gaya
+      luar seperi gaya angin, gempa, dll. Untuk itu pondasi haruslah kuat, stabil,
+      aman, agar tidak mengalami penurunan, tidak mengalami patah, karena akan sulit
+      untuk memperbaiki suatu sistem pondasi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22184055110414336
+    m_Localized: 'Pondasi dangkal didefinisikan sebagai pondasi yang mendukung bebannya
+      secara langsung, seperti: pondasi telapak, pondasi memanjang dan pondasi rakit.
+      Berikut penjelasan dari jenis-jenis pondasi dangkal'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22185873714491392
+    m_Localized: 'Pondasi dalam didefinisikan sehagai pondasi yang meneruskan beban
+      bangunan ke tanah keras atau batuan yang terletak relatif jauh dari permukaan,
+      contohnya pondasi sumuran dan pondasi tiang. Berikut penjelasan dari jenis-jenis
+      pondasi dalam:'
     m_Metadata:
       m_Items: []
   references:

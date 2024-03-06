@@ -13,12 +13,13 @@ public class ArManager : MonoBehaviour
     private AudioClip audioClip;
     private int choiceFoundation;
     public int lenguageID;
+    private bool isMusicPlaying = false; // Menandakan apakah musik sedang diputar
 
     // Start is called before the first frame update
     void Start()
     {
         choiceFoundation = PlayerPrefs.GetInt("ChoiceFoundation");
-        lenguageID = PlayerPrefs.GetInt("LocaleKey"); 
+        lenguageID = PlayerPrefs.GetInt("LocaleKey");
         if (lenguageID == 0)
         {
             DisplayDescriptionFoundationEN();
@@ -27,7 +28,6 @@ public class ArManager : MonoBehaviour
         {
             DisplayDescriptionFoundationID();
         }
-        
     }
 
     void DisplayDescriptionFoundationID()
@@ -44,8 +44,17 @@ public class ArManager : MonoBehaviour
         audioClip = Foundations[choiceFoundation].soundDescription;
     }
 
-    public void PlaySoundDescription()
+    public void ToggleMusic()
     {
-        audioSource.PlayOneShot(audioClip);
+        if (isMusicPlaying)
+        {
+            audioSource.Stop();
+        }
+        else
+        {
+            audioSource.PlayOneShot(audioClip);
+        }
+
+        isMusicPlaying = !isMusicPlaying; // Mengubah status pemutaran musik
     }
 }

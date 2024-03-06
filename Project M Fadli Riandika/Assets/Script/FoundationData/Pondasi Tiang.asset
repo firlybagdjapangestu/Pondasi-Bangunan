@@ -14,14 +14,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   foundationImage: {fileID: 21300000, guid: fbaa05c9c6882814e8dcba3e7895f148, type: 3}
   foundationName: Pile Foundation
-  foundationDescription: "A pile foundation is used when the foundation soil at a
-    normal depth is unable to support its load adequately, while firm soil is located
-    at a considerable depth. Here is an illustration of a pile foundation.\r\n\r"
-  soundDescription: {fileID: 8300000, guid: 24b498b047c3ad9499f647205ba74e8b, type: 3}
+  foundationDescription: Pile foundation is employed when the foundation soil at
+    a normal depth cannot bear the load, while hard soil is situated at a significant
+    depth. The primary function of a pile foundation is to transfer the structural
+    load from the building or structure to soil layers with higher bearing capacity.
+    Pile foundations penetrate into the soil until reaching a sufficiently strong
+    layer to support the load. A concrete example is in the construction of tall
+    buildings, bridges, or offshore structures. Tall buildings require pile foundations
+    to penetrate deep into strong soil layers, while in bridges or offshore structures,
+    pile foundations are used to support structures above the water surface.
+  soundDescription: {fileID: 8300000, guid: 62746991b8563454bb54c19b1cd83fe0, type: 3}
   namaPondasi: Pondasi Tiang
-  deskripsiPondasi: Pondasi tiang (pile foundation) digunakan ketika tanah pada kedalaman
-    normal tidak dapat menopang beban secara memadai, dan tanah keras terletak pada
-    kedalaman yang sangat dalam. Berikut adalah ilustrasi dari pondasi tiang.
-  suaraPenjelasan: {fileID: 8300000, guid: 2ef5a992f98328949bdc112c228bb226, type: 3}
+  deskripsiPondasi: Pondasi tiang (pile foundation), digunakan bila tanah pondasi
+    pada kedalaman yang normal tidak mampu mendukung bebannya, sedangkan tanah keras
+    terletak pada kedalaman yang sangat dalam. Fungsi utama pondasi tiang adalah
+    mentransfer beban struktural dari bangunan atau struktur ke lapisan tanah yang
+    memiliki daya dukung yang lebih tinggi. Tiang pancang menyelam ke dalam tanah
+    hingga mencapai lapisan yang cukup kuat untuk menopang beban. Contoh konkretnya
+    adalah pada konstruksi bangunan tinggi, jembatan, atau struktur offshore. Bangunan
+    tinggi memerlukan pondasi tiang untuk menembus lapisan tanah yang kuat di kedalaman
+    yang signifikan, sementara pada jembatan atau struktur offshore, pondasi tiang
+    digunakan untuk menopang struktur di atas permukaan air.
+  suaraPenjelasan: {fileID: 8300000, guid: 30f7cf79b61c4514e92659fb15fa31e3, type: 3}
   foundationPrefab: {fileID: 4442050243330050853, guid: 857737ce7b284a043b379db073fb2f93,
     type: 3}

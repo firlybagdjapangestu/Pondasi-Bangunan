@@ -13,15 +13,28 @@ MonoBehaviour:
   m_Name: Pondasi Telapak
   m_EditorClassIdentifier: 
   foundationImage: {fileID: 0}
-  foundationName: Standalone Foundation
-  foundationDescription: A spread footing is a standalone foundation that supports
-    a column. Here is an illustration of a spread footing.
-  soundDescription: {fileID: 8300000, guid: 943d5c3115ca8f04e89198831167d858, type: 3}
+  foundationName: Spread Foundation
+  foundationDescription: The spread footing is a standalone foundation that supports
+    columns or foundations directly on the ground when there is a sufficiently thick
+    layer of good-quality soil capable of supporting the structure on or just below
+    the ground surface. The primary function of spread footing is to evenly distribute
+    the structural load to the underlying soil. The wide surface of this foundation
+    helps prevent excessive pressure on the soil, enabling it to effectively bear
+    the load from the structure above. Real-world examples of the application of
+    spread footing can be found in the construction of houses, warehouses, or buildings
+    with evenly distributed floor loads.
+  soundDescription: {fileID: 8300000, guid: 1d301acbe5fc62d49b61f3750e956756, type: 3}
   namaPondasi: Pondasi Telapak
-  deskripsiPondasi: 'Pondasi telapak (spread footing) adalah pondasi yang berdiri
-    sendiri dalam mendukung kolom. Berikut adalah ilustrasi dari pondasi telapak.
-
-'
-  suaraPenjelasan: {fileID: 8300000, guid: e762e787e4e1c8d4aa2f8dc5d36d2a81, type: 3}
+  deskripsiPondasi: Pondasi telapak (spread footing) merupakan pondasi yang berdiri
+    sendiri dalam mendukung kolom atau pondasi yang mendukung bangunan secara langsung
+    pada tanah bilamana terdapat lapisan tanah yang cukup tebal dengan kualitas baik
+    yang mampu mendukung bangunan itu pada permukaan tanah atau sedikit dibawah permukaan
+    tanah. Fungsi utama pondasi telapak adalah mendistribusikan beban struktural
+    secara merata ke tanah di bawahnya. Permukaan lebar dari pondasi ini membantu
+    mencegah terjadinya tekanan berlebihan pada tanah, sehingga mampu menanggung
+    beban dari struktur di atasnya dengan efektif. Contoh nyata dari penerapan pondasi
+    telapak dapat ditemukan dalam pembangunan rumah, gudang, atau bangunan dengan
+    beban lantai yang merata.
+  suaraPenjelasan: {fileID: 8300000, guid: 10fb21e51d22c2b43946bb6b10adf140, type: 3}
   foundationPrefab: {fileID: 4068045341146738975, guid: a8a57bda68ba4a44ca00bc3a40eb080d,
     type: 3}

@@ -1,6 +1,8 @@
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "FoundationData", menuName = "Foundation Data", order = 1)]
+
+// database dari setiap fondation
 public class FoundationData : ScriptableObject
 {
     public Sprite foundationImage;

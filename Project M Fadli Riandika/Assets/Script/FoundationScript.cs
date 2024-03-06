@@ -10,6 +10,7 @@ public class FoundationScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // ketika foundation di spawn dapat memilih 3D model nya
         foundationChoice = PlayerPrefs.GetInt("ChoiceFoundation");
         GameObject obj = Instantiate(foundationData[foundationChoice].foundationPrefab, gameObject.transform.position, Quaternion.identity);
         obj.transform.SetParent(gameObject.transform); // Membuat objek yang di-instantiate menjadi child dari game object ini

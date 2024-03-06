@@ -49,12 +49,12 @@ public class GameManager : MonoBehaviour
         StartCoroutine(GetNetworkTime());
     }
 
-    public void LoadScene(string sceneIndex)
+    public void LoadScene(string sceneIndex) // fungsi untuk load scene
     {
         SceneManager.LoadSceneAsync(sceneIndex);
     }
 
-    public void SelectFoundation(int choice)
+    public void SelectFoundation(int choice) // fungsi untuk menyimpan data foundasi apa yang akan di spawn
     {
         PlayerPrefs.SetInt("ChoiceFoundation", choice);
     }
@@ -65,7 +65,7 @@ public class GameManager : MonoBehaviour
         StartCoroutine(SetLocale(_localeId));
     }
 
-    private void firstTimeInstall()
+    private void firstTimeInstall() // fungsi untk pengaturan bahasa pertama kali
     {
         thisFirstTime = 1;
         PlayerPrefs.SetInt("FirstTime", thisFirstTime);
@@ -110,7 +110,7 @@ public class GameManager : MonoBehaviour
 
         client.Close();
     }
-    public void ExitApp()
+    public void ExitApp() //fungsi untuk keluar apps
     {
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;

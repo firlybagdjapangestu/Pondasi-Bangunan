@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 using UnityEngine.Localization.Settings;
 
+//untuk mengganti bahasa
 public class SettingManager : MonoBehaviour
 {
     public void ChangeLocale(int _localeId)

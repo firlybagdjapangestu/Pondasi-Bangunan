@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
 {
     private static GameManager _instance;
     public static GameManager Instance { get { return _instance; } }
-    public DateTime expiredApp = new DateTime(2024, 3, 30); // Atur nilai default di Inspector
+    public DateTime expiredApp = new DateTime(2024, 4, 30); // Atur nilai default di Inspector
     public int howMuchButtonClick;
     public int limitButtonClick;
     public GameObject lockPanel;

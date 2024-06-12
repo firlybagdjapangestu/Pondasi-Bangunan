@@ -47,11 +47,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18763649900544
-    m_Localized: According to Christady (2014), a foundation is the lowest part of
-      a building that transfers the building's load to the soil or rock beneath it.
-      According to Yuningtyastuti (2011), a foundation is the lower structure of
-      a building that directly interacts with the soil, serving as a component of
-      construction that functions to resist the forces exerted upon it. The foundation
+    m_Localized: A foundation is the lowest part of a building that transfers the
+      building's load to the soil or rock beneath it. A foundation is the lower structure
+      of a building that directly interacts with the soil, serving as a component
+      of construction that functions to resist the forces exerted upon it. The foundation
       is constructed as a strong fundamental unit beneath the overall structure.
     m_Metadata:
       m_Items: []
@@ -128,6 +127,10 @@ MonoBehaviour:
       load to hard soil or rock located relatively deep below the surface, such as
       well foundation and pile foundation. The following is an explanation of the
       types of deep foundations:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50183515445379072
+    m_Localized: Do you want to exit ?
     m_Metadata:
       m_Items: []
   references:

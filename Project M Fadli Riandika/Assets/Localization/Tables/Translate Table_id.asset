@@ -48,12 +48,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18763649900544
-    m_Localized: Menurut Christady (2014) Pondasi adalah bagian terendah dari bangunan
-      yang meneruskan beban bangunan ke tanah atau batuan yang ada di bawahnya. Menurut
-      Yuningtyastuti (2011) Pondasi adalah struktur bagian bawah bangunan yang berhubungan
-      langsung dengan tanah dan suatu bagian dari konstruksi yang berfungsi menahan
-      gaya beban diatasnya. Pondasi dibuat menjadi satu kesatuan dasar bangunan yang
-      kuat yang terdapat dibawah konstruksi.
+    m_Localized: Pondasi adalah bagian terendah dari bangunan yang meneruskan beban
+      bangunan ke tanah atau batuan yang ada di bawahnya. Pondasi adalah struktur
+      bagian bawah bangunan yang berhubungan langsung dengan tanah dan suatu bagian
+      dari konstruksi yang berfungsi menahan gaya beban diatasnya. Pondasi dibuat
+      menjadi satu kesatuan dasar bangunan yang kuat yang terdapat dibawah konstruksi.
     m_Metadata:
       m_Items: []
   - m_Id: 18967300136960
@@ -128,6 +127,10 @@ MonoBehaviour:
       bangunan ke tanah keras atau batuan yang terletak relatif jauh dari permukaan,
       contohnya pondasi sumuran dan pondasi tiang. Berikut penjelasan dari jenis-jenis
       pondasi dalam:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50183515445379072
+    m_Localized: Apakah kamu ingin keluar
     m_Metadata:
       m_Items: []
   references:

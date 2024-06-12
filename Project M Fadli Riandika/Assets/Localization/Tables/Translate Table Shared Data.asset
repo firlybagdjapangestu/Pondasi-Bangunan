@@ -103,6 +103,10 @@ MonoBehaviour:
     m_Key: Deep-Description
     m_Metadata:
       m_Items: []
+  - m_Id: 50183515445379072
+    m_Key: Exit-Text
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
